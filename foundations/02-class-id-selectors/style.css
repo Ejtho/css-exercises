@@ -1,0 +1,20 @@
+#div1 {
+  font-size: 36px;
+  color: blue;
+}
+
+#div2 {
+  background: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.paragraph {
+  background: #ffc6e2;
+  font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#paragraph2 {
+    font-size: 24px;
+}
+
